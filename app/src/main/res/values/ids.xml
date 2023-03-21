@@ -3,4 +3,5 @@
     <item name="search" type="id" />
     <item name="refresh" type="id" />
     <item name="copy" type="id" />
+    <item name="Button3" type="id" />
 </resources>
