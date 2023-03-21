@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Potot_Act1_ITELEC2"
 include ':app'
+include ':bottomnavigation'
